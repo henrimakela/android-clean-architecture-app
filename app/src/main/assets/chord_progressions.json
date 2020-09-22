@@ -1,0 +1,257 @@
+[
+  {
+    "style": "Blues",
+    "progression": "I-V-IV-IV-I-V-I-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Pachelbel",
+    "progression": "I-V-vi-iii-IV-I-IV-V",
+    "transposable": "no"
+  },
+  {
+    "style": "Romanesca",
+    "progression": "III-VII-i-V-III-VII-i-V-i",
+    "transposable": "no"
+  },
+  {
+    "style": "Popular",
+    "progression": "I-V-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "I�V�VI�IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "I-IV-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "I�VI-III-VII",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "I�vi�IV�V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "vi�V�IV�V",
+    "transposable": "no"
+  },
+  {
+    "style": "Popular",
+    "progression": "I-IV-vi�V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "I�V�IV�V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Popular",
+    "progression": "I�IV�bVII�IV",
+    "transposable": "no"
+  },
+  {
+    "style": "Popular",
+    "progression": "I-V-vi-iii-IV",
+    "transposable": "no"
+  },
+  {
+    "style": "Popular",
+    "progression": "I-bVII-IV",
+    "transposable": "no"
+  },
+  {
+    "style": "Popular",
+    "progression": "i-VII-VI",
+    "transposable": "no"
+  },
+  {
+    "style": "Popular",
+    "progression": "I-VI-II-V-I",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "I�I�I�I�IV�IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "I�I�V�V�I�I",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "V�VI�I�V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "I�vi�IV�V",
+    "transposable": "no"
+  },
+  {
+    "style": "Rock",
+    "progression": "I�V�vi�IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "ii�IV�V",
+    "transposable": "no"
+  },
+  {
+    "style": "Rock",
+    "progression": "I�IV�V�IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "V�IV�I",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rock",
+    "progression": "vi�IV�I�V",
+    "transposable": "no"
+  },
+  {
+    "style": "Rock",
+    "progression": "vi�V�VI�V",
+    "transposable": "no"
+  },
+  {
+    "style": "Rock",
+    "progression": "vi�V�IV�III",
+    "transposable": "no"
+  },
+  {
+    "style": "Rock",
+    "progression": "ii�I�V6�bVII",
+    "transposable": "no"
+  },
+  {
+    "style": "Rock",
+    "progression": "ii�I�V6�VI",
+    "transposable": "no"
+  },
+  {
+    "style": "Alternative",
+    "progression": "VI-IV-I-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Dreadful",
+    "progression": "I-VI-IV-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Endless",
+    "progression": "I-VI-II-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Energetic",
+    "progression": "I-III-IV-VI",
+    "transposable": "yes"
+  },
+  {
+    "style": "Folk",
+    "progression": "I-V-I-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Folk",
+    "progression": "I-VI-I-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Flamenco",
+    "progression": "VI-V-IV-III",
+    "transposable": "yes"
+  },
+  {
+    "style": "Flamenco",
+    "progression": "VI-V-VI-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Grunge",
+    "progression": "I-IV-III-VI",
+    "transposable": "yes"
+  },
+  {
+    "style": "Rebellious",
+    "progression": "IV-I-IV-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Wild",
+    "progression": "I-IV-I-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Jazz",
+    "progression": "II-V-I-V-I",
+    "transposable": "yes"
+  },
+  {
+    "style": "Love",
+    "progression": "I-IV-V-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Nostalgic",
+    "progression": "I-IV-I-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Sad",
+    "progression": "I-IV-V-V",
+    "transposable": "yes"
+  },
+  {
+    "style": "Sad",
+    "progression": "I-V-IV-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Sad",
+    "progression": "I-IV-V-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Sweet",
+    "progression": "V-IV-I-I",
+    "transposable": "yes"
+  },
+  {
+    "style": "Sweet",
+    "progression": "I-IV-I-IV",
+    "transposable": "yes"
+  },
+  {
+    "style": "Sweet",
+    "progression": "I-V-V-I",
+    "transposable": "yes"
+  },
+  {
+    "style": "Wistful",
+    "progression": "I-I-IV-VI",
+    "transposable": "yes"
+  },
+  {
+    "style": "Moody",
+    "progression": "II-I-V-VII",
+    "transposable": "yes"
+  }
+]
