@@ -12,5 +12,7 @@ interface ChordDataSource {
 
     suspend fun removeFromFavorites(progression: ChordProgression)
 
+    suspend fun getFavorites(): List<ChordProgression>
+
 
 }
