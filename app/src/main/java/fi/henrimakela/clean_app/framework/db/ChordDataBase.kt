@@ -7,7 +7,7 @@ import androidx.room.RoomDatabase
 import fi.henrimakela.clean_app.framework.db.dao.FavoriteChordProgressionDao
 import fi.henrimakela.clean_app.framework.db.entities.FavoriteChordProgression
 
-@Database(entities = [FavoriteChordProgression::class], version = 1)
+@Database(entities = [FavoriteChordProgression::class], version = 1, exportSchema = false)
 abstract class ChordDataBase : RoomDatabase(){
     abstract fun favoriteDao(): FavoriteChordProgressionDao
 

@@ -7,11 +7,11 @@ import fi.henrimakela.domain.ChordProgression
 
 @Entity(tableName = "favorites")
 data class FavoriteChordProgression(
-    @ColumnInfo(name = "style") val style: String?,
-    @ColumnInfo(name = "progression") val progression: String?,
-    @ColumnInfo(name = "transposable") val transposable: Boolean?
+    @ColumnInfo(name = "style") var style: String?,
+    @ColumnInfo(name = "progression") var progression: String?,
+    @ColumnInfo(name = "transposable") var transposable: Boolean?
 ){
-    @PrimaryKey(autoGenerate = true) val uid: Int = 0
+    @PrimaryKey(autoGenerate = true) var uid: Int = 0
 
     companion object{
         fun mapFromChordProgression(progression: ChordProgression): FavoriteChordProgression{

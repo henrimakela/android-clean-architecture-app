@@ -30,7 +30,6 @@ class ChordViewModel : ViewModel(), KoinComponent{
     }
 
     private fun loadChordProgressions(){
-
         GlobalScope.launch {
             _progressions.postValue(getChordProgressions())
         }
@@ -42,9 +41,11 @@ class ChordViewModel : ViewModel(), KoinComponent{
         }
     }
 
-    fun addToFavorites(progression: ChordProgression){
-        addToFavorites(progression)
-        loadFavourites()
+    fun addProgressionToFavorites(progression: ChordProgression){
+        GlobalScope.launch {
+            addToFavorites(progression)
+            loadFavourites()
+        }
     }
 
 
